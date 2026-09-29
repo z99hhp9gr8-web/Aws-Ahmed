@@ -1,0 +1,21 @@
+.section-container {
+  padding: 80px 20px;
+  background-color: #111111;
+  color: #ffffff;
+  text-align: center;
+  border-bottom: 4px solid #0056b3;
+}
+.section-container h2 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #007bff;
+}
+.section-container p {
+  font-size: 1.25rem;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  color: #cccccc;
+}
